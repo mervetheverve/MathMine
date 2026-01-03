@@ -1,0 +1,1 @@
+"""MathMine game package."""
