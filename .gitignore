@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+.claude/
+saves/save.json
